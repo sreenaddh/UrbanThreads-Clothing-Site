@@ -45,7 +45,7 @@
 
 ### 1️⃣ Clone the Repository
 ```sh
-git clone https://github.com/sreenaddh/urbanthreads.git
+git clone https://github.com/sreenaddh/UrbanThreads-Clothing-Site.git
 cd urbanthreads 
 ```
 
