@@ -4,7 +4,7 @@
 
 ---
 ## 🌟 Live Website  
-🔗 **Visit here**: [UrbanThreads](urbanthreadss.vercel.app)
+🔗 **Visit here**: urbanthreadss.vercel.app
 
 ## 🚀 Features
 
